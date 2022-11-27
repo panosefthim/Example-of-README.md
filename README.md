@@ -15,4 +15,5 @@
 * *Resisting cell death*
 * *Deregulating cell death*
 * *Unlocking phenotypic plasticity*
+
 ![Diagram of hallmarks of cancer](https://www.aacr.org/wp-content/uploads/2022/01/Hallmarks-of-Cancer.jpg)
