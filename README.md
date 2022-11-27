@@ -16,4 +16,6 @@
 * *Deregulating cell death*
 * *Unlocking phenotypic plasticity*
 
+More details please visiti the [**website**](https://www.aacr.org/blog/2022/01/21/new-dimensions-in-cancer-biology-updated-hallmarks-of-cancer-published/) of American Association of Cancer Research
+
 ![Diagram of hallmarks of cancer](https://www.aacr.org/wp-content/uploads/2022/01/Hallmarks-of-Cancer.jpg)
